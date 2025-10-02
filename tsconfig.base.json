@@ -10,6 +10,7 @@
     "paths": {
       "@project-magdy/core": ["core/src/index.ts"],
       "@project-magdy/data-access": ["data-access/src/index.ts"],
+      "@project-magdy/features-products": ["features-products/src/index.ts"],
       "@project-magdy/ui": ["ui/src/index.ts"]
     }
   },
