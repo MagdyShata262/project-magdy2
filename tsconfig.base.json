@@ -8,6 +8,7 @@
     "lib": ["es2020", "dom"],
     "baseUrl": ".",
     "paths": {
+      "@project-magdy/core": ["core/src/index.ts"],
       "@project-magdy/ui": ["ui/src/index.ts"]
     }
   },
